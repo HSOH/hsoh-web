@@ -22,7 +22,7 @@
                     <a href="/">Start Bootstrap</a>
                 </li>
                 <li>
-                    <a href="#wrapper">Dashboard</a>
+                    <a href="#">Dashboard</a>
                 </li>
                 <li>
                     <a href="#">Shortcuts</a>
