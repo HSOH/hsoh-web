@@ -128,9 +128,6 @@
                         <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">
                             Toggle Menu
                         </a>
-                        <p>
-                            Hello, comments.
-                        </p>
                     </div>
                 </div>
                 <div class="row">
